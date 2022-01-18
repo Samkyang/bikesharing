@@ -3,6 +3,8 @@
 ## Overview
 The purpose of this analysis was to see what the market looks like for bike rentals in New York to see if it was worth starting a company in Des Moine, Iowa. This was done by obtaining the bikeshare data, converting the trip duration from an integer to a date time format using pandas. 
 
+[link to dashboard](https://public.tableau.com/views/Challenge_16424892140270/FinalPresentation?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
 ## Results
 ##### I started off by looking at the breakdown of times that users would begin using their bikes. we can see that between the times of 2pm and 7pm is when most bike rentals occur. The reason for this is probably because most people are getting off of work at this time. We can also see that this is when we should have bikes available at the populat starting locations.
 
